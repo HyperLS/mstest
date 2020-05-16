@@ -1,0 +1,11 @@
+loaded: 'true'
+ip: localhost
+port: port
+name: server
+auth: auth_string
+reconnectTimeout: 5
+integration:
+  commands:
+    balance: true
+    spawn: true
+  usechatformatting: true

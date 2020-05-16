@@ -1,0 +1,390 @@
+[01:54:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:54:28] [Server thread/INFO]: Loading properties
+[01:54:28] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2f5d615-d07a78b (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[01:54:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:54:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:54:28] [Server thread/INFO]: Debug logging is disabled
+[01:54:28] [Server thread/INFO]: Default game type: SURVIVAL
+[01:54:28] [Server thread/INFO]: Generating keypair
+[01:54:29] [Server thread/INFO]: Starting Minecraft server on *:40127
+[01:54:29] [Server thread/INFO]: Using epoll channel type
+[01:54:30] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:54:42] [Server thread/WARN]: Legacy plugin UltimateTs v2.0.0 does not specify an api-version.
+[01:54:43] [Server thread/INFO]: [DiscordSRV] Unknown user language C.U.
+[01:54:43] [Server thread/INFO]: [DiscordSRV] If you fluently speak C.U as well as English, see the GitHub repo to translate it!
+[01:54:43] [Server thread/WARN]: Legacy plugin TeamSpeakJoiner v4.0 does not specify an api-version.
+[01:54:43] [Server thread/WARN]: Legacy plugin TeamSpeakIP v5.7.1 does not specify an api-version.
+[01:54:43] [Server thread/WARN]: [TeamSpeakIP] Loaded class com.github.theholywaffle.teamspeak3.TS3Config from UltimateTs v2.0.0 which is not a depend, softdepend or loadbefore of this plugin.
+[01:54:43] [Server thread/INFO]: [UltimateTs] Loading UltimateTs v2.0.0
+[01:54:43] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.18.2
+[01:54:43] [Server thread/INFO]: [TeamSpeakJoiner] Loading TeamSpeakJoiner v4.0
+[01:54:43] [Server thread/INFO]: [TeamSpeakIP] Loading TeamSpeakIP v5.7.1
+[01:54:43] [Server thread/INFO]: Preparing level "world"
+[01:54:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:54:46] [Server thread/INFO]: Loaded 6 recipes
+[01:54:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:54:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:54:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:54:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:54:48] [Server thread/INFO]: View Distance: 10
+[01:54:48] [Server thread/INFO]: Mob Spawn Range: 6
+[01:54:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:54:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:54:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:54:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:54:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:54:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:54:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:54:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:54:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:54:48] [Server thread/INFO]: Max TNT Explosions: 100
+[01:54:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:54:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[01:54:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:54:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:54:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:54:49] [Server thread/INFO]: View Distance: 10
+[01:54:49] [Server thread/INFO]: Mob Spawn Range: 6
+[01:54:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:54:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:54:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:54:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:54:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:54:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:54:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:54:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:54:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:54:49] [Server thread/INFO]: Max TNT Explosions: 100
+[01:54:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:54:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:54:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:54:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:54:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:54:50] [Server thread/INFO]: View Distance: 10
+[01:54:50] [Server thread/INFO]: Mob Spawn Range: 6
+[01:54:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:54:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:54:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:54:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:54:50] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:54:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:54:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:54:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:54:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[01:54:50] [Server thread/INFO]: Max TNT Explosions: 100
+[01:54:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:54:51] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:54:55] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[01:55:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:15] [Server thread/INFO]: Preparing spawn area: 81%
+[01:55:17] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[01:55:17] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:17] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:17] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:17] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[01:55:18] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[01:55:18] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:19] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:19] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:20] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[01:55:20] [Server thread/INFO]: Preparing spawn area: 83%
+[01:55:21] [Server-Worker-2/INFO]: Preparing spawn area: 85%
+[01:55:21] [Server-Worker-2/INFO]: Preparing spawn area: 87%
+[01:55:22] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+[01:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 93%
+[01:55:23] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[01:55:23] [Server thread/INFO]: Preparing spawn area: 98%
+[01:55:23] [Server thread/INFO]: Time elapsed: 32578 ms
+[01:55:23] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[01:55:25] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:25] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:25] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:25] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[01:55:25] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[01:55:26] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:26] [Server-Worker-2/INFO]: Preparing spawn area: 85%
+[01:55:27] [Server-Worker-2/INFO]: Preparing spawn area: 87%
+[01:55:27] [Server thread/INFO]: Time elapsed: 3948 ms
+[01:55:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[01:55:28] [Server thread/INFO]: Preparing spawn area: 0%
+[01:55:28] [Server thread/INFO]: Preparing spawn area: 23%
+[01:55:28] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[01:55:29] [Server thread/INFO]: Time elapsed: 1372 ms
+[01:55:29] [Server thread/ERROR]: Permission node 'ultimatets.*' in plugin description file for UltimateTs v2.0.0 is invalid
+java.lang.IllegalArgumentException: Child 'ultimatets.list.*' contains invalid value
+	at org.bukkit.permissions.Permission.extractChildren(Permission.java:350) ~[spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.permissions.Permission.loadPermission(Permission.java:318) ~[spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.permissions.Permission.loadPermissions(Permission.java:241) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.plugin.PluginDescriptionFile.getPermissions(PluginDescriptionFile.java:831) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:453) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:378) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:457) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:274) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:784) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at java.lang.Thread.run(Thread.java:813) [?:1.8.0_212]
+[01:55:29] [Server thread/INFO]: [UltimateTs] Enabling UltimateTs v2.0.0
+[01:55:29] [Server thread/ERROR]: [UltimateTs] (TeamSpeak) Error when trying to connecting to TeamSpeak !
+com.github.theholywaffle.teamspeak3.api.exception.TS3ConnectionFailedException: An error occurred while connecting to the TeamSpeak3 server
+[01:55:29] [pool-4-thread-1/INFO]: [2020-05-16 01:55:29.152] [SEVERE] [Connection] Disconnected from TS3 server
+[01:55:29] [Server thread/INFO]: [UltimateTs] Disabling UltimateTs v2.0.0
+[01:55:29] [pool-4-thread-1/INFO]: [2020-05-16 01:55:29.154] [SEVERE] [Connection] Disconnected from TS3 server
+[01:55:29] [pool-4-thread-1/WARN]: [UltimateTs] Loaded class com.github.theholywaffle.teamspeak3.TS3Query$1 from TeamSpeakIP v5.7.1 which is not a depend, softdepend or loadbefore of this plugin.
+[01:55:29] [pool-4-thread-1/INFO]: [2020-05-16 01:55:29.158] [SEVERE] ConnectionHandler threw exception in disconnect handler
+java.lang.IllegalAccessError: Class com/github/theholywaffle/teamspeak3/TS3Query illegally accessing "package private" member of class com/github/theholywaffle/teamspeak3/TS3Query$1
+	at com.github.theholywaffle.teamspeak3.TS3Query.doCommand(TS3Query.java:152)
+	at com.github.theholywaffle.teamspeak3.TS3Query.exit(TS3Query.java:124)
+	at com.github.theholywaffle.teamspeak3.api.reconnect.DisconnectingConnectionHandler.onDisconnect(DisconnectingConnectionHandler.java:49)
+	at com.github.theholywaffle.teamspeak3.TS3Query$2.run(TS3Query.java:207)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:813)
+
+[01:55:29] [Server thread/ERROR]: Error occurred while enabling UltimateTs v2.0.0 (Is it up to date?)
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register ultimatets.minecraft.TypeYesOrNo@d37d26f7 while not enabled
+	at org.bukkit.plugin.SimplePluginManager.registerEvents(SimplePluginManager.java:612) ~[spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at ultimatets.UltimateTs.onEnable(UltimateTs.java:82) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:464) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:378) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:457) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:274) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:784) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at java.lang.Thread.run(Thread.java:813) [?:1.8.0_212]
+[01:55:29] [pool-4-thread-1/INFO]: [2020-05-16 01:55:29.161] [SEVERE] ConnectionHandler threw exception in disconnect handler
+java.lang.IllegalAccessError: Class com/github/theholywaffle/teamspeak3/TS3Query illegally accessing "package private" member of class com/github/theholywaffle/teamspeak3/TS3Query$1
+	at com.github.theholywaffle.teamspeak3.TS3Query.doCommand(TS3Query.java:152)
+	at com.github.theholywaffle.teamspeak3.TS3Query.exit(TS3Query.java:124)
+	at com.github.theholywaffle.teamspeak3.api.reconnect.DisconnectingConnectionHandler.onDisconnect(DisconnectingConnectionHandler.java:49)
+	at com.github.theholywaffle.teamspeak3.TS3Query$2.run(TS3Query.java:207)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:813)
+
+[01:55:29] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.18.2
+[01:55:29] [Server thread/INFO]: [TeamSpeakJoiner] Enabling TeamSpeakJoiner v4.0
+[01:55:29] [Server thread/INFO]: [TeamSpeakIP] Enabling TeamSpeakIP v5.7.1
+[01:55:29] [Server thread/INFO]: /home/gs-40127/plugins/TeamSpeakIP/filter.yml
+[01:55:29] [Server thread/INFO]: /home/gs-40127/plugins/TeamSpeakIP/filter.yml
+[01:55:29] [Server thread/ERROR]: Error occurred while enabling TeamSpeakIP v5.7.1 (Is it up to date?)
+java.lang.NoSuchMethodError: com/github/theholywaffle/teamspeak3/TS3Query.connect()V (loaded from file:/home/gs-40127/plugins/UltimateTsv2.jar by org.bukkit.plugin.java.PluginClassLoader@9f33b0e9) called from class de.t0biii.ts.TeamSpeak (loaded from file:/home/gs-40127/plugins/TeamSpeak5.7.1.jar by org.bukkit.plugin.java.PluginClassLoader@3fabf0f9).
+	at de.t0biii.ts.TeamSpeak.onEnable(TeamSpeak.java:105) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:464) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:378) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:457) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:274) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:784) [spigot-1.15.2.jar:git-Spigot-2f5d615-d07a78b]
+	at java.lang.Thread.run(Thread.java:813) [?:1.8.0_212]
+[01:55:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:55:29] [Server thread/INFO]: Done (45.865s)! For help, type "help"
+[01:55:29] [Server thread/INFO]: Starting GS4 status listener
+[01:55:29] [Query Listener #1/INFO]: Query running on 0.0.0.0:40127
+[01:55:30] [DiscordSRV - Initialization/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 72 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Bukkit Dev: http://dev.bukkit.org/bukkit-plugins/discordsrv/
+Source: https://github.com/DiscordSRV/DiscordSRV
+
+[01:55:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[01:55:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[01:55:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[01:55:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[01:55:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[01:55:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[01:55:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Krew Kard Support(681349518473822316)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-logs(686277492972978219)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:verify(708744221791748117)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rules-and-info(681361765220745216)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(686793150295048223)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:salad-io(710523532827951207)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:krew-anoucements(709183212747751516)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:real-vip-krew-anoucements(709182996854472724)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:welcome-and-boosts(681349518478016559)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:help-me-with-krew-kard(681602165839495195)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:krew-kard-status(683738868197228548)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:events(708738465440989224)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🍍general(681351752477442089)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🌹just-pictures(681498805174009895)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🌺randomoff-topic(681492921824051220)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:⭐100-and-over-the-moon(681493331075006549)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🍜ramen-time(681493691512389690)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:💛shine-bright(681493499463598102)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🛸smol-talk(681493126099107841)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:bot-commands(686350530968420433)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music-cmds(702793514731307018)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:roblox-game(704054003536757056)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ips(689537175506780162)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:minecraft-chat(689532495288336415)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:commands(689532574560813061)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:owner-cmds(681352396298911783)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:dev-bot-commands(681596763022295040)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:share-server-invs(681608752692199457)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:dev-loop(682708093385179164)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Chat Galore(391603857727160320)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:hide(694067089509580800)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-mic(681983471840919751)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mod-logs(686277818425933913)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:restream-chat(686334801527308291)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ads(689168603375075370)
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 689532574560813061
+[01:55:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[01:55:32] [DiscordSRV - Initialization/WARN]: java.lang.NoClassDefFoundError: org.bukkit.event.player.PlayerAchievementAwardedEvent
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at github.scarsz.discordsrv.listeners.PlayerAchievementsListener.<init>(PlayerAchievementsListener.java:35)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at github.scarsz.discordsrv.DiscordSRV.init(DiscordSRV.java:583)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at github.scarsz.discordsrv.DiscordSRV$$Lambda$2500.00000000389F89D0.run(Unknown Source)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at java.lang.Thread.run(Thread.java:813)
+[01:55:32] [DiscordSRV - Initialization/WARN]: Caused by: 
+[01:55:32] [DiscordSRV - Initialization/WARN]: java.lang.ClassNotFoundException: org.bukkit.event.player.PlayerAchievementAwardedEvent
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:96)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at java.lang.ClassLoader.loadClassHelper(ClassLoader.java:946)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:891)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:874)
+[01:55:32] [DiscordSRV - Initialization/WARN]: 	... 4 more
+[01:55:33] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] DiscordSRV failed to load properly: org.bukkit.event.player.PlayerAchievementAwardedEvent. See https://bin.scarsz.me/46be8405-a03d-4c42-8976-1029fa01ddbb#sGC7TgmDhdaynyJqhUmGGJrB4xPFhb8x for more information.
+[02:01:22] [Server thread/INFO]: [Server] §cServer§c.pro §b- §bFree §bGame §bHosting. §6Upgrade §6to §6remove §6ads.
+[02:10:40] [User Authenticator #1/INFO]: UUID of player Hyper_LS_YT is c0bfe1e6-34c4-4276-a4e4-f1fe16c48ab6
+[02:10:40] [Server thread/INFO]: Hyper_LS_YT[/107.15.100.39:64041] logged in with entity id 36 at ([world]255.5, 64.0, 147.5)
+[02:11:09] [Server thread/INFO]: Made Hyper_LS_YT a server operator
+[02:11:35] [Server thread/INFO]: Hyper_LS_YT issued server command: /tp 261.94 65.00 141.59
+[02:11:35] [Server thread/INFO]: [Hyper_LS_YT: Teleported Hyper_LS_YT to 261.94, 65.0, 141.59]
+[02:11:49] [Server thread/INFO]: Hyper_LS_YT issued server command: /gamemode creative
+[02:11:49] [Server thread/INFO]: [Hyper_LS_YT: Set own game mode to Creative Mode]
+[02:11:57] [Server thread/INFO]: Hyper_LS_YT issued server command: /tp 1000 1000 1000
+[02:11:57] [Server thread/INFO]: [Hyper_LS_YT: Teleported Hyper_LS_YT to 1000.5, 1000.0, 1000.5]
+[02:12:00] [Server thread/WARN]: Hyper_LS_YT moved too quickly! 0.0,-32.270236779958736,0.0
+[02:12:20] [Server thread/INFO]: Hyper_LS_YT issued server command: /locate Village
+[02:12:24] [Server thread/INFO]: Hyper_LS_YT issued server command: /tp @s 880 ~ 0
+[02:12:27] [Server thread/INFO]: [Hyper_LS_YT: Teleported Hyper_LS_YT to 880.5, 78.57836307816461, 0.5]
+[02:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5945ms or 118 ticks behind
+[02:16:22] [Server thread/INFO]: [Server] §cServer§c.pro §b- §bFree §bGame §bHosting. §6Upgrade §6to §6remove §6ads.
+[02:16:55] [Server thread/INFO]: Hyper_LS_YT issued server command: /give name minecraft:diamond_sword 1 0 {Unbreakable:1}
+[02:17:05] [Async Chat Thread - #0/INFO]: <Hyper_LS_YT> give name minecraft:diamond_sword 1 0 {Unbreakable}[m
+[02:18:19] [Server thread/INFO]: Hyper_LS_YT issued server command: /give @p minecraft:bow{Unbreakable:1} 1
+[02:18:19] [Server thread/INFO]: [Hyper_LS_YT: Gave 1 [Bow] to Hyper_LS_YT]
+[02:18:40] [Server thread/INFO]: Hyper_LS_YT issued server command: /give @p minecraft:diamond_sword{Unbreakable:1} 1
+[02:18:40] [Server thread/INFO]: [Hyper_LS_YT: Gave 1 [Diamond Sword] to Hyper_LS_YT]
+[02:18:51] [Server thread/INFO]: Hyper_LS_YT issued server command: /give @p minecraft:diamond_pickaxe{Unbreakable:1} 1
+[02:18:51] [Server thread/INFO]: [Hyper_LS_YT: Gave 1 [Diamond Pickaxe] to Hyper_LS_YT]
+[02:19:01] [Server thread/INFO]: Hyper_LS_YT issued server command: /give @p minecraft:diamond_shovel{Unbreakable:1} 1
+[02:19:01] [Server thread/INFO]: [Hyper_LS_YT: Gave 1 [Diamond Shovel] to Hyper_LS_YT]
+[02:19:25] [Server thread/INFO]: Hyper_LS_YT issued server command: /give @p minecraft:diamond_axe{Unbreakable:1} 1
+[02:19:25] [Server thread/INFO]: [Hyper_LS_YT: Gave 1 [Diamond Axe] to Hyper_LS_YT]
+[02:19:36] [Server thread/INFO]: Hyper_LS_YT issued server command: /give @p minecraft:diamond_hoe{Unbreakable:1} 1
+[02:19:36] [Server thread/INFO]: [Hyper_LS_YT: Gave 1 [Diamond Hoe] to Hyper_LS_YT]
+[02:20:27] [Server thread/INFO]: Hyper_LS_YT issued server command: /gamemode survival
+[02:20:27] [Server thread/INFO]: [Hyper_LS_YT: Set own game mode to Survival Mode]
+[02:20:32] [Server thread/INFO]: Hyper_LS_YT has made the advancement [Diamonds!]
+[02:20:38] [Server thread/INFO]: Hyper_LS_YT has made the advancement [Stone Age]
+[02:20:48] [Server thread/INFO]: Hyper_LS_YT issued server command: /enchant @s minecraft:efficiency 100
+[02:20:51] [Server thread/INFO]: Hyper_LS_YT issued server command: /enchant @s minecraft:efficiency 5
+[02:20:51] [Server thread/INFO]: [Hyper_LS_YT: Applied enchantment Efficiency V to Hyper_LS_YT's item]
+[02:21:55] [Server thread/INFO]: Villager EntityVillager['Villager'/797, l='world', x=886.06, y=71.00, z=8.28] died, message: 'Villager was slain by Husk'
+[02:22:13] [Server thread/INFO]: Hyper_LS_YT issued server command: /enchant @s minecraft:efficiency 5
+[02:22:17] [Server thread/INFO]: Hyper_LS_YT issued server command: /enchant @s minecraft:efficiency 1
+[02:24:19] [Server thread/INFO]: Hyper_LS_YT has made the advancement [Monster Hunter]
+[02:25:52] [Server thread/INFO]: Hyper_LS_YT was shot by Skeleton
+[02:27:01] [Server thread/INFO]: Hyper_LS_YT lost connection: Disconnected
+[02:27:01] [Server thread/INFO]: Hyper_LS_YT left the game

@@ -1,0 +1,15 @@
+version: '1.2'
+discord:
+  key: ''
+  music: true
+  base-permission: ADMINISTRATOR
+  console-refresh: 5
+  prefix: '!'
+  status: Fantasically Simple Discord Bot by seasonguy
+  dangerous-commands:
+  - op
+  - deop
+  - stop
+  - reload
+chat-event-cancellation: false
+chat-format: '&f[&bFSDiscordBot&f] %username% : &7%message%'

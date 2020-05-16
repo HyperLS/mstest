@@ -1,0 +1,15 @@
+# 
+# bot token
+token: ''
+channelid: 0
+message_format_mc: '&b[Discord]&r %client%&7: &f%text%'
+message_title_dc: '%player% (Minecraft chat)'
+panel_color: '#ff4700'
+bot_playing: ''
+joinMessage: '%player% joined the Minecraft server.'
+quitMessage: '%player% left the Minecraft server.'
+deathMessage: '%msg%'
+restricted: false
+allowPlayerList: true
+groupsid: []
+usersid: []
